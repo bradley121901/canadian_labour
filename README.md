@@ -1,0 +1,1 @@
+Analysis on Labour Force Survey done by Canada Statistics. Database schema planning for aggregate tables. Data cleaning, data extraction, ETL process with machine learning predictions, and data visualization. 
